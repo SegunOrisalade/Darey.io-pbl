@@ -26,3 +26,9 @@
 ![project1sub6 installing mysql](https://github.com/SegunOrisalade/Darey.io-pbl/assets/135872037/983cffa8-7cab-48b2-b386-eb26d7b2a941)
 
 ![project1sub2 mysql](https://github.com/SegunOrisalade/Darey.io-pbl/assets/135872037/bbabbedf-6ad4-4d04-bd6e-723c1c3e0114)
+
+## STEP 3 — INSTALLING PHP
+![project1sub8 installing PHP](https://github.com/SegunOrisalade/Darey.io-pbl/assets/135872037/2df391bb-e97b-476a-8fe9-87e8c1050080)
+
+### php -v
+![project1sub9 php-v](https://github.com/SegunOrisalade/Darey.io-pbl/assets/135872037/5e500f2d-d624-4fd3-8aea-b9034dfb64f4)
