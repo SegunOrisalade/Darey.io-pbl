@@ -19,3 +19,10 @@
 ### curl http://localhost:80
 ![project1sub2 curl httplocalhost80](https://github.com/SegunOrisalade/Darey.io-pbl/assets/135872037/22aae814-89b9-4d57-b1e0-fc93daa795c4)
 
+### Testing Apache HTTP server
+![project1sub5 Testing apache server](https://github.com/SegunOrisalade/Darey.io-pbl/assets/135872037/092d0743-8e8f-4648-9974-fdda4778f35b)
+
+## STEP 2 — INSTALLING MYSQL
+![project1sub6 installing mysql](https://github.com/SegunOrisalade/Darey.io-pbl/assets/135872037/983cffa8-7cab-48b2-b386-eb26d7b2a941)
+
+![project1sub2 mysql](https://github.com/SegunOrisalade/Darey.io-pbl/assets/135872037/bbabbedf-6ad4-4d04-bd6e-723c1c3e0114)
