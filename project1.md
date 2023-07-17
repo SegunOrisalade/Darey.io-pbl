@@ -32,3 +32,7 @@
 
 ### php -v
 ![project1sub9 php-v](https://github.com/SegunOrisalade/Darey.io-pbl/assets/135872037/5e500f2d-d624-4fd3-8aea-b9034dfb64f4)
+
+## STEP 4 — CREATING A VIRTUAL HOST FOR YOUR WEBSITE USING APACHE
+![project1sub2 creating virtual host](https://github.com/SegunOrisalade/Darey.io-pbl/assets/135872037/7e5cc155-edb8-4359-9fbb-7749e3f461dc)
+
