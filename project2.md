@@ -31,6 +31,12 @@
 ![project2 configuring nginx to use php2](https://github.com/SegunOrisalade/Darey.io-pbl/assets/135872037/7d628ca5-bc58-4d5e-aed7-331ea5b1d9c6)
 
 
+# STEP 5 – TESTING PHP WITH NGINX
+
+![project2 test php with nginx ](https://github.com/SegunOrisalade/Darey.io-pbl/assets/135872037/ce77772d-059d-42d1-9a49-cba595d82728)
+
+
+
 
 
 
