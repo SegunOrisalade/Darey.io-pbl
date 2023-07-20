@@ -19,3 +19,9 @@
 ![project2 installing mysql](https://github.com/SegunOrisalade/Darey.io-pbl/assets/135872037/113ad7a1-3a6d-40c4-95fe-7354c590797c)
 
 
+# STEP 3 – INSTALLING PHP
+
+![project2 install php](https://github.com/SegunOrisalade/Darey.io-pbl/assets/135872037/982e049a-10a2-4cd9-b2aa-54b802ed734f)
+
+
+
