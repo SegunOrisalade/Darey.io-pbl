@@ -36,6 +36,15 @@
 ![project2 test php with nginx ](https://github.com/SegunOrisalade/Darey.io-pbl/assets/135872037/ce77772d-059d-42d1-9a49-cba595d82728)
 
 
+# STEP 6 – RETRIEVING DATA FROM MYSQL DATABASE WITH PHP (CONTINUED)
+
+![project2 retriving data from mysql1](https://github.com/SegunOrisalade/Darey.io-pbl/assets/135872037/e0916cd3-2115-4420-81e4-379a1c7a2e0a)
+
+
+![project2 retriving data from mysql2](https://github.com/SegunOrisalade/Darey.io-pbl/assets/135872037/b3182ac8-19ef-4f65-b821-22fe373534e5)
+
+
+
 
 
 
