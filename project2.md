@@ -24,4 +24,15 @@
 ![project2 install php](https://github.com/SegunOrisalade/Darey.io-pbl/assets/135872037/982e049a-10a2-4cd9-b2aa-54b802ed734f)
 
 
+# STEP 4 — CONFIGURING NGINX TO USE PHP PROCESSOR
+
+![project2 configuring nginx to use php1](https://github.com/SegunOrisalade/Darey.io-pbl/assets/135872037/6a7d2b06-afa7-4e94-984e-45f398ffdb40)
+
+![project2 configuring nginx to use php2](https://github.com/SegunOrisalade/Darey.io-pbl/assets/135872037/7d628ca5-bc58-4d5e-aed7-331ea5b1d9c6)
+
+
+
+
+
+
 
